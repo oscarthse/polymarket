@@ -1,0 +1,14 @@
+[project]
+name = "polymarket"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "cryptography>=43.0.0",
+    "httpx>=0.28.1",
+    "ipykernel>=7.1.0",
+    "numpy>=2.3.5",
+    "python-dotenv>=1.2.1",
+    "requests>=2.32.5",
+]
